@@ -1,0 +1,4 @@
+PROGRAM EXECUTION:-
+	1.localhost/criminaldata/
+	2.localhost/criminaldata/admin/
+	3.localhost/criminaldata/team/
